@@ -3,6 +3,5 @@
 
 - 🔭 I’m currently working on **unified health record**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
 </p>
